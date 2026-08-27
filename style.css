@@ -24,7 +24,7 @@ nav {
 nav ul {
     list-style-type: none;
 }
-main {
+.password-generator {
     background: linear-gradient(45deg, var(--primary-color), var(--secondary-color));
     min-height: 100vh;
     display: flex;

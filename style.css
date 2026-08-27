@@ -11,6 +11,19 @@
     box-sizing: border-box;
     font-family: 'Times New Roman', Times, serif;
 }
+nav {
+    background-color: rgb(10, 10, 106);
+    color: #ccc;
+    height: 68px;
+    font-size: 30px;
+    display: flex;
+    align-items: center;
+    padding: 0 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+nav ul {
+    list-style-type: none;
+}
 body {
     background: linear-gradient(45deg, var(--primary-color), var(--secondary-color));
     min-height: 100vh;
